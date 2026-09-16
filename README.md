@@ -1,4 +1,5 @@
-# agnostic-workspace
-A simple editor/terminal UI for anything.
+# Agnostic Workspace
 
-![screenshot](ScreenshotWorkspace.png)
+![screenshot](screenshot.png)
+
+A simple editor/terminal UI for anything.
